@@ -1,4 +1,4 @@
-# **Installing Prometheus and Grafana Monitoring on Ubuntu Server**
+# **Installing Prometheus & Grafana Monitoring on Ubuntu VPS**
 
 __________________________________________________________________________________________
 ## **Step 01 - Installing Prometheus**
