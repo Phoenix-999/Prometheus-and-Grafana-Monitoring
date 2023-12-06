@@ -286,7 +286,7 @@ After loading the 1860 application, in the `Panel` section, find the `Prometheus
 
 As shown in the image below, the monitor controller will be uploaded. Please click on the `settings` icon on the top bar on the right and select the `link` from the settings menu on the left.
 
-![Screenshot 2023-12-06 at 11 38 18 copy](https://github.com/iranxray/hope/assets/127796122/58c78c22-d86d-4fb7-bad5-a43692b6edce)
+![Screenshot 2023-12-06 at 11 38 18 copy](https://github.com/iranxray/hope/assets/127796122/abaf7cea-70d4-48d7-8fc4-4ec008251ab7)
 ![Screenshot 2023-12-06 at 09 14 38 copy](https://github.com/iranxray/hope/assets/127796122/3eaca084-1f6b-40a5-bc0a-a38169af0023)
 
 In the link section, click on the `X` to delete the default links from GitHub and Grafana, as illustrated in the image.
@@ -302,3 +302,6 @@ Now, in the final step, go back to the Home hamburger menu on the top left, open
 Now, the choice is yours. Explore the list and select what you'd like to monitor.
 
 ![Screenshot 2023-12-06 at 09 17 51 copy](https://github.com/iranxray/hope/assets/127796122/1a2ec654-b2f0-415f-a76c-bde1513e2fcb)
+
+
+
