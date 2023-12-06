@@ -57,6 +57,7 @@ systemctl restart prometheus
 systemctl enable prometheus
 systemctl status prometheus
 ```
+"Press 'Q' to exit status mode.
 
 ### **Display Network Interfaces:**
 
@@ -136,6 +137,8 @@ systemctl enable node_exporter
 systemctl status node_exporter
 ```
 
+"Press 'Q' to exit status mode.
+
 ### **Display Network Interfaces:**
 
 ```
@@ -179,6 +182,8 @@ systemctl enable prometheus
 systemctl status prometheus
 ```
 
+"Press 'Q' to exit status mode.
+
 __________________________________________________________________________________________
 ## **Step 02 - Installing Grafana**
 
@@ -215,6 +220,8 @@ systemctl restart grafana-server
 systemctl enable grafana-server
 systemctl status grafana-server
 ```
+
+"Press 'Q' to exit status mode.
 
 Next, make sure the port 3000 is open on your VPS server:
 
