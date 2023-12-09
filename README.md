@@ -304,4 +304,5 @@ Now, the choice is yours. Explore the list and select what you'd like to monitor
 ![Screenshot 2023-12-06 at 09 17 51 copy](https://github.com/iranxray/hope/assets/127796122/1a2ec654-b2f0-415f-a76c-bde1513e2fcb)
 
 
+https://www.youtube.com/watch?v=94JMdueq2SA&t=20s
 
