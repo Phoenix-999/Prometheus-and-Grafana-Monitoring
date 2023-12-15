@@ -289,7 +289,7 @@ As shown in the image below, the monitor controller will be uploaded. Please cli
 ![Screenshot 2023-12-06 at 11 38 18 copy](https://github.com/iranxray/hope/assets/127796122/abaf7cea-70d4-48d7-8fc4-4ec008251ab7)
 ![Screenshot 2023-12-06 at 09 14 38 copy](https://github.com/iranxray/hope/assets/127796122/3eaca084-1f6b-40a5-bc0a-a38169af0023)
 
-In the link section, click on the `X` to delete the default links from GitHub and Grafana, as illustrated in the image.
+In the `link` section, click on the `X` to delete the default links from GitHub and Grafana, as illustrated in the image.
 Finally, click on the `Save Dashboard` button on the top right, and you are almost done setting up your panel.
 
 ![Screenshot 2023-12-06 at 09 15 08 copy](https://github.com/iranxray/hope/assets/127796122/d87dd04c-5b8e-4e4e-9567-b37caaeef5e4)
