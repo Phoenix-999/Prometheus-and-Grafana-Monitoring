@@ -172,7 +172,7 @@ sudo nano /etc/prometheus/prometheus.yml
 ```
 
 ### **Copy & Past the Content of prometheus.yml:**
-Replace "Your-Server-IP-Address" with the actual IP address of your server.
+Replace `Your-Server-IP-Address` with the actual IP address of your server.
 
 ```console
 global:
