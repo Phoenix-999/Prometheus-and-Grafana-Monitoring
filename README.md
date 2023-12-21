@@ -6,24 +6,24 @@ ________________________________________________________________________________
 
 > [Prometheus Download Files Here](https://prometheus.io/download/)
 
-At first, make sure to update your scripts in line with the latest version from the mentioned website. As of now, the most recent version is `prometheus-2.49.0-rc.0.linux-amd64.tar.gz`. Please replace it accordingly, and keep an eye out for any new version updates.
+At first, make sure to update your scripts in line with the latest version from the mentioned website. As of now, the most recent version is `prometheus-2.49.0-rc.1.linux-amd64.tar.gz`. Please replace it accordingly, and keep an eye out for any new version updates.
 
 ### **Download Prometheus:**
 
 ```
-wget https://github.com/prometheus/prometheus/releases/download/v2.49.0-rc.0/prometheus-2.49.0-rc.0.linux-amd64.tar.gz
+wget https://github.com/prometheus/prometheus/releases/download/v2.49.0-rc.0/prometheus-2.49.0-rc.1.linux-amd64.tar.gz
 ```
 
 ### **Extract Prometheus:**
 
 ```
-tar xzf prometheus-2.49.0-rc.0.linux-amd64.tar.gz
+tar xzf prometheus-2.49.0-rc.1.linux-amd64.tar.gz
 ```
 
 ### **Move Prometheus files:**
 
 ```
-mv prometheus-2.49.0-rc.0.linux-amd64 /etc/prometheus
+mv prometheus-2.49.0-rc.1.linux-amd64 /etc/prometheus
 ```
 
 ### **Edit systemd service file:**
