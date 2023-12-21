@@ -11,7 +11,7 @@ At first, make sure to update your scripts in line with the latest version from 
 ### **Download Prometheus:**
 
 ```
-wget https://github.com/prometheus/prometheus/releases/download/v2.49.0-rc.0/prometheus-2.49.0-rc.1.linux-amd64.tar.gz
+wget https://github.com/prometheus/prometheus/releases/download/v2.49.0-rc.1/prometheus-2.49.0-rc.1.linux-amd64.tar.gz
 ```
 
 ### **Extract Prometheus:**
