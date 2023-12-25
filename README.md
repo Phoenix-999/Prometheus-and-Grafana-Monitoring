@@ -152,11 +152,6 @@ systemctl status node_exporter
 ip a
 ```
 
-Now, refresh the Prometheus web interface at http://your-server-ip-address:9090/. Navigate to the top of the website, click on 'Status' in the navigation bar, and then select 'Targets.' Ensure the instance value reflects your server IP address, and the Job should change to 'node,' as illustrated in the image below.
-
-![03](https://github.com/iranxray/hope/assets/127796122/c10d5519-25f0-4669-a67a-7c64142b54f3)
-
-
 ### **Remove Existing Prometheus Configuration:**
 Deletes the existing Prometheus configuration file (prometheus.yml).
 
@@ -183,6 +178,10 @@ scrape_configs:
   static_configs:
   - targets: ['Your-Server-IP-Address:9100']
 ```
+
+Now, refresh the Prometheus web interface at http://your-server-ip-address:9090/. Navigate to the top of the website, click on 'Status' in the navigation bar, and then select 'Targets.' Ensure the instance value reflects your server IP address, and the Job should change to 'node,' as illustrated in the image below.
+
+![03](https://github.com/iranxray/hope/assets/127796122/c10d5519-25f0-4669-a67a-7c64142b54f3)
 
 ### **Prometheus Systemd Commands (Restart, Enable, Status)**
 Restart Prometheus to apply configuration changes, set it for automatic startup on system boot, and verify service status for errors.
